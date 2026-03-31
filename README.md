@@ -1,16 +1,25 @@
-## Hi there 👋
+‎ 
+‎ 
+‎ 
+‎ </div>
+<div align="center">
+‎ 
+‎ 
 
-<!--
-**StaticTea/StaticTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+‎ 
+૮ 　‎ ![](https://komarev.com/ghpvc/?username=theplasticbeach&color=5a5a5a&style=plastic&label=🔪ིྀ⭑)　 ა
+‎ 
+ </div>
+<div align="center">
+    
+　　<img width="50%" src="https://i.postimg.cc/3wTnms81/3dgifmaker57702.gif">　
+  ────────────────────────────────────────────────────────────────୨ৎ────────────────────────────────────────────────────────────
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8gf0bcfbsbpz6ihpnfkbnumjt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8gf0bcfbsbpz6ihpnfkbnumjt&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=5f2525&bar_color_cover=false">
+  </a>
+</p>
+  ────────────────────────────────────────────────────────────────୨ৎ────────────────────────────────────────────────────────────
