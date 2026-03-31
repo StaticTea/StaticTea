@@ -7,7 +7,7 @@
 ‎ 
 
 ‎ 
-૮ 　‎ ![](https://komarev.com/ghpvc/?username=theplasticbeach&color=5a5a5a&style=plastic&label=🔪ིྀ⭑)　 ა
+૮ 　‎ ![](https://komarev.com/ghpvc/?username=StaticTea&color=5a5a5a&style=plastic&label=🔪ིྀ⭑)　 ა
 ‎ 
  </div>
 <div align="center">
